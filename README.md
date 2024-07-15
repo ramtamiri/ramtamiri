@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ramtamiri
 - I'm an aspiring DevOps Engineer and started learning the DevOps course.
-- Currently learning Shell Scripting, AWS and GitHub and some beginner-friendly projects.
+- Currently learning Shell Scripting, AWS and  GitHub with some beginner-friendly projects.
 - Your suggestions and advice is helpful for me to understand more insights about DevOps to improve my skillset, Thank You.
 
 <!---
